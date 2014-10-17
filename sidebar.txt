@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tiq:home|Door43 (tiq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tiq|d43-tiq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tiq/archive/master.zip|d43-tiq.zip]]
+
+**Recent Changes**
+{{changes>ns = tiq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tiq|Ethnologue data]]
+
